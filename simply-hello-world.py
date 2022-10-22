@@ -7,3 +7,5 @@ def start():
         return "error"
     print("hello world")
 start()
+
+print("you are robot👾")
