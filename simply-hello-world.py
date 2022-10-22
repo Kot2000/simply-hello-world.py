@@ -8,4 +8,4 @@ def start():
     print("hello world")
 start()
 
-print("you are robot👾")
+print("you are robot")
